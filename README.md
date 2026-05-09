@@ -1,7 +1,11 @@
 ## Bem-vindo(a) ao perfil do Pinheiro!    
+<p align="center">
+  <img height="250" src="https://gh-stats.com/api?username=GuilhermePinheiro-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</p>
+
 <br>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
